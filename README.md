@@ -2,7 +2,7 @@
 <i>Flow Chemistry Group Leader at <a href="https://www.mpikg.mpg.de/en/bs">MPIKG</a></i><br/><br/>
 
 
-- <a href="https://orcid.org"><img height="24" width="24" src="./ORCID-iD_icon-vector.svg" alt="ORCID logo" /></a> <a href="https://orcid.org/0000-0003-2722-5106">0000-0003-2722-5106</a> 
+- <a href="https://orcid.org"><img height="20" width="20" src="./ORCID-iD_icon-vector.svg" alt="ORCID logo" /></a> <a href="https://orcid.org/0000-0003-2722-5106">0000-0003-2722-5106</a> 
 - 📫 How to reach me: <a href="https://www.twitter.com/dariocambie">@dariocambie</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I wrote my first code (MSX BASIC) on a 1984 "PC" that my father had in the basement 
