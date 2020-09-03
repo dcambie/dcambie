@@ -1,7 +1,7 @@
 <h3 align="center">It's me, Dario! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h3>
-_Flow Chemistry Group Leader at <a href="https://www.mpikg.mpg.de/en/bs">MPIKG</a>_<br/>
+<i>Flow Chemistry Group Leader at <a href="https://www.mpikg.mpg.de/en/bs">MPIKG</a></i><br/>
 
-<img alt="ORCID logo" src="./ORCID-iD_icon-vector.svg" width="24">
+<img align="right" alt="ORCID logo" src="./ORCID-iD_icon-vector.svg" width="24">
 <a href="https://orcid.org/0000-0003-2722-5106">0000-0003-2722-5106</a>
 
 
