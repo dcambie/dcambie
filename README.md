@@ -1,7 +1,7 @@
 <h3 align="center">It's me, Dario! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h3>
 <i>Flow Chemistry Group Leader at <a href="https://www.mpikg.mpg.de/en/bs">MPIKG</a></i><br/><br/>
 
-Open-source software is somewhat akin to academic research: several skilled people contributing to publish a piece of work.
+Open-source software is somewhat akin to academic research: few skilled people contribute to publish a piece of work.
 
 Far too often, however, academic code is either closed sourced or "_available upon [reasonable] request_". I find statements like this deeply unethical. They are a direct insult towards the reproducibility of science, to the agency funding the work, to the FAIR data movement and to the scientific community as a whole.
 
