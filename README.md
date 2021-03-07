@@ -11,8 +11,6 @@ I truly believe in open science, therefore I pledge to:
  * release publicly the raw data and source code associated with the publications generated in my research group _in a reusable format_ unless legally prevented to do so by NDA or other IP agreements.
  * support open-access in a pragmatic way, e.g. publishing preprints for manuscripts submitted to non open-access journals. 
 
-<!--Open-source software is somewhat akin to academic research: few skilled people contribute to publish a piece of work.-->
-
 
 <!--
 The effects of the digital transformation on academic research are evident in the digitization of scholarly journals and the simplification of international collaborations.
@@ -32,4 +30,4 @@ OSS debate refs
 - <a href="https://orcid.org"><img height="20" width="20" src="./ORCID-iD_icon-vector.svg" alt="ORCID logo" /></a> <a href="https://orcid.org/0000-0003-2722-5106">0000-0003-2722-5106</a> 
 - 📫 How to reach me: via twitter or email (see on the left!)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I wrote my first code (MSX BASIC) as child on a 1984 "PC" that getting dust in the basement 
+- ⚡ Fun fact: I wrote my first code (MSX BASIC) as child on a 1984 "PC" that was getting dust in the basement 
